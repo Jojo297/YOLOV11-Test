@@ -20,4 +20,4 @@
 
 **Detection from your webcam**
 
-	```yolo predict model="runs/detect/train13/weights/best.pt" source=0 show=True```
+	yolo predict model="runs/detect/train13/weights/best.pt" source=0 show=True
