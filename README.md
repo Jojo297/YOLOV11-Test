@@ -15,7 +15,9 @@
 # clove ripeness detection
 
 **Detection Image**
-```yolo predict model="runs/detect/train13/weights/best.pt" source=your-image.jpg```
+
+	```yolo predict model="runs/detect/train13/weights/best.pt" source=your-image.jpg```
 
 **Detection from your webcam**
-```yolo predict model="runs/detect/train13/weights/best.pt" source=0 show=True```
+
+	```yolo predict model="runs/detect/train13/weights/best.pt" source=0 show=True```
